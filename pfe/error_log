@@ -1,0 +1,726 @@
+[18-Oct-2022 15:25:44 Africa/Casablanca] PHP Notice:  Undefined index: username in /home/mowadaba/public_html/pfe/principale.php on line 12
+[18-Oct-2022 15:25:44 Africa/Casablanca] PHP Notice:  Undefined index: username in /home/mowadaba/public_html/pfe/principale.php on line 13
+[18-Oct-2022 15:26:03 Africa/Casablanca] PHP Notice:  Undefined index: username in /home/mowadaba/public_html/pfe/principale.php on line 12
+[18-Oct-2022 15:26:03 Africa/Casablanca] PHP Notice:  Undefined index: username in /home/mowadaba/public_html/pfe/principale.php on line 13
+[18-Oct-2022 16:40:22 Africa/Casablanca] PHP Notice:  Undefined index: username in /home/mowadaba/public_html/pfe/principale.php on line 12
+[18-Oct-2022 16:40:22 Africa/Casablanca] PHP Notice:  Undefined index: username in /home/mowadaba/public_html/pfe/principale.php on line 13
+[18-Oct-2022 20:51:57 Africa/Casablanca] PHP Notice:  Undefined index: username in /home/mowadaba/public_html/pfe/principale.php on line 12
+[18-Oct-2022 20:51:57 Africa/Casablanca] PHP Notice:  Undefined index: username in /home/mowadaba/public_html/pfe/principale.php on line 13
+[18-Oct-2022 22:40:42 Africa/Casablanca] PHP Notice:  Undefined index: username in /home/mowadaba/public_html/pfe/principale.php on line 12
+[18-Oct-2022 22:40:42 Africa/Casablanca] PHP Notice:  Undefined index: username in /home/mowadaba/public_html/pfe/principale.php on line 13
+[18-Oct-2022 22:40:46 Africa/Casablanca] PHP Notice:  Undefined index: username in /home/mowadaba/public_html/pfe/principale.php on line 12
+[18-Oct-2022 22:40:46 Africa/Casablanca] PHP Notice:  Undefined index: username in /home/mowadaba/public_html/pfe/principale.php on line 13
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Notice:  Undefined variable: nameb in /home/mowadaba/public_html/pfe/home.php on line 109
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Notice:  Undefined variable: emailb in /home/mowadaba/public_html/pfe/home.php on line 114
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 01:42:29 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Notice:  Undefined variable: nameb in /home/mowadaba/public_html/pfe/home.php on line 109
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Notice:  Undefined variable: emailb in /home/mowadaba/public_html/pfe/home.php on line 114
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 01:43:05 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Notice:  Undefined variable: nameb in /home/mowadaba/public_html/pfe/home.php on line 109
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Notice:  Undefined variable: emailb in /home/mowadaba/public_html/pfe/home.php on line 114
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 01:43:07 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Notice:  Undefined variable: nameb in /home/mowadaba/public_html/pfe/home.php on line 109
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Notice:  Undefined variable: emailb in /home/mowadaba/public_html/pfe/home.php on line 114
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 01:43:09 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Notice:  Undefined variable: nameb in /home/mowadaba/public_html/pfe/home.php on line 109
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Notice:  Undefined variable: emailb in /home/mowadaba/public_html/pfe/home.php on line 114
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 01:43:14 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Notice:  Undefined variable: nameb in /home/mowadaba/public_html/pfe/home.php on line 109
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Notice:  Undefined variable: emailb in /home/mowadaba/public_html/pfe/home.php on line 114
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 01:43:30 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Notice:  Undefined variable: nameb in /home/mowadaba/public_html/pfe/home.php on line 109
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Notice:  Undefined variable: emailb in /home/mowadaba/public_html/pfe/home.php on line 114
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 01:44:50 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Notice:  Undefined variable: nameb in /home/mowadaba/public_html/pfe/home.php on line 109
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Notice:  Undefined variable: emailb in /home/mowadaba/public_html/pfe/home.php on line 114
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 01:45:18 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Notice:  Undefined variable: nameb in /home/mowadaba/public_html/pfe/home.php on line 109
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Notice:  Undefined variable: emailb in /home/mowadaba/public_html/pfe/home.php on line 114
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 01:50:17 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Notice:  Undefined variable: nameb in /home/mowadaba/public_html/pfe/home.php on line 109
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Notice:  Undefined variable: emailb in /home/mowadaba/public_html/pfe/home.php on line 114
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 01:50:20 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Notice:  Undefined variable: nameb in /home/mowadaba/public_html/pfe/home.php on line 109
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Notice:  Undefined variable: emailb in /home/mowadaba/public_html/pfe/home.php on line 114
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 01:54:40 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Notice:  Undefined variable: nameb in /home/mowadaba/public_html/pfe/home.php on line 109
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Notice:  Undefined variable: emailb in /home/mowadaba/public_html/pfe/home.php on line 114
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 01:55:47 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Notice:  Undefined variable: nameb in /home/mowadaba/public_html/pfe/home.php on line 109
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Notice:  Undefined variable: emailb in /home/mowadaba/public_html/pfe/home.php on line 114
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 01:55:50 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:03:07 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:03:56 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 262 in /home/mowadaba/public_html/pfe/home.php on line 262
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 141
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 143
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 160
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 176
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 177
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:05:11 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:06:50 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 251 in /home/mowadaba/public_html/pfe/home.php on line 251
+[29-Oct-2022 02:06:50 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:06:50 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 02:06:50 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 02:06:50 Africa/Casablanca] PHP Notice:  Undefined variable: adresse in /home/mowadaba/public_html/pfe/home.php on line 137
+[29-Oct-2022 02:06:50 Africa/Casablanca] PHP Notice:  Undefined variable: passwordb in /home/mowadaba/public_html/pfe/home.php on line 149
+[29-Oct-2022 02:06:50 Africa/Casablanca] PHP Notice:  Undefined variable: matriculeb in /home/mowadaba/public_html/pfe/home.php on line 154
+[29-Oct-2022 02:06:50 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 02:06:50 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 165
+[29-Oct-2022 02:06:50 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 166
+[29-Oct-2022 02:06:50 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:06:50 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:09:38 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 230 in /home/mowadaba/public_html/pfe/home.php on line 230
+[29-Oct-2022 02:09:38 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:09:38 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 02:09:38 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 02:09:38 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 144
+[29-Oct-2022 02:09:38 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 144
+[29-Oct-2022 02:09:38 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 145
+[29-Oct-2022 02:09:38 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:09:38 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:09:54 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 230 in /home/mowadaba/public_html/pfe/home.php on line 230
+[29-Oct-2022 02:09:54 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:09:54 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 02:09:54 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 02:09:54 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 144
+[29-Oct-2022 02:09:54 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 144
+[29-Oct-2022 02:09:54 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 145
+[29-Oct-2022 02:09:54 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:09:54 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:10:18 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 230 in /home/mowadaba/public_html/pfe/home.php on line 230
+[29-Oct-2022 02:10:18 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:10:18 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 02:10:18 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 02:10:18 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 144
+[29-Oct-2022 02:10:18 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 144
+[29-Oct-2022 02:10:18 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 145
+[29-Oct-2022 02:10:18 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:10:18 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:11:37 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 232 in /home/mowadaba/public_html/pfe/home.php on line 232
+[29-Oct-2022 02:11:37 Africa/Casablanca] PHP Notice:  Undefined variable: contactb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:11:37 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 124
+[29-Oct-2022 02:11:37 Africa/Casablanca] PHP Notice:  Undefined variable: gender in /home/mowadaba/public_html/pfe/home.php on line 128
+[29-Oct-2022 02:11:37 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 146
+[29-Oct-2022 02:11:37 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 146
+[29-Oct-2022 02:11:37 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 147
+[29-Oct-2022 02:11:37 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:11:37 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:12:54 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 218 in /home/mowadaba/public_html/pfe/home.php on line 218
+[29-Oct-2022 02:12:54 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 132
+[29-Oct-2022 02:12:54 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 132
+[29-Oct-2022 02:12:54 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 133
+[29-Oct-2022 02:12:54 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:12:54 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:13:48 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 218 in /home/mowadaba/public_html/pfe/home.php on line 218
+[29-Oct-2022 02:13:48 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 132
+[29-Oct-2022 02:13:48 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 132
+[29-Oct-2022 02:13:48 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 133
+[29-Oct-2022 02:13:48 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:13:48 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:13:51 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 218 in /home/mowadaba/public_html/pfe/home.php on line 218
+[29-Oct-2022 02:13:51 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 132
+[29-Oct-2022 02:13:51 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 132
+[29-Oct-2022 02:13:51 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 133
+[29-Oct-2022 02:13:51 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:13:51 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:15:29 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 219 in /home/mowadaba/public_html/pfe/home.php on line 219
+[29-Oct-2022 02:15:29 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 133
+[29-Oct-2022 02:15:29 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 133
+[29-Oct-2022 02:15:29 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 134
+[29-Oct-2022 02:15:29 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:15:29 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:16:59 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 203 in /home/mowadaba/public_html/pfe/home.php on line 203
+[29-Oct-2022 02:16:59 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:16:59 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:18:39 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 220 in /home/mowadaba/public_html/pfe/home.php on line 220
+[29-Oct-2022 02:18:39 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:18:39 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:18:39 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:18:39 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 127
+[29-Oct-2022 02:18:39 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:18:39 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:19:17 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 220 in /home/mowadaba/public_html/pfe/home.php on line 220
+[29-Oct-2022 02:19:17 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:19:17 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:19:17 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:19:17 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 127
+[29-Oct-2022 02:19:17 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:19:17 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:19:42 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 220 in /home/mowadaba/public_html/pfe/home.php on line 220
+[29-Oct-2022 02:19:42 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:19:42 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:19:42 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:19:42 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 127
+[29-Oct-2022 02:19:42 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:19:42 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:21:23 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 227 in /home/mowadaba/public_html/pfe/home.php on line 227
+[29-Oct-2022 02:21:23 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:21:23 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:21:23 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:21:23 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 127
+[29-Oct-2022 02:21:23 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:21:23 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:23:12 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 236 in /home/mowadaba/public_html/pfe/home.php on line 236
+[29-Oct-2022 02:23:12 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:23:12 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:23:12 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:23:12 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 127
+[29-Oct-2022 02:23:12 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:23:12 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:24:09 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 237 in /home/mowadaba/public_html/pfe/home.php on line 237
+[29-Oct-2022 02:24:09 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:24:09 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:24:09 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:24:09 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 127
+[29-Oct-2022 02:24:09 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:24:09 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:27:18 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 233 in /home/mowadaba/public_html/pfe/home.php on line 233
+[29-Oct-2022 02:27:18 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:27:18 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:27:18 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:27:18 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 127
+[29-Oct-2022 02:27:18 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:27:18 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:28:03 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 234 in /home/mowadaba/public_html/pfe/home.php on line 234
+[29-Oct-2022 02:28:03 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:28:03 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:28:03 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:28:03 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 127
+[29-Oct-2022 02:28:03 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:28:03 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:29:52 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 240 in /home/mowadaba/public_html/pfe/home.php on line 240
+[29-Oct-2022 02:29:52 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:29:52 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:29:52 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:29:52 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 127
+[29-Oct-2022 02:29:52 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:29:52 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:31:24 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 240 in /home/mowadaba/public_html/pfe/home.php on line 240
+[29-Oct-2022 02:31:24 Africa/Casablanca] PHP Notice:  Undefined variable: idb in /home/mowadaba/public_html/pfe/home.php on line 119
+[29-Oct-2022 02:31:24 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:31:24 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 02:31:24 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 127
+[29-Oct-2022 02:31:24 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:31:24 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:32:14 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 223 in /home/mowadaba/public_html/pfe/home.php on line 223
+[29-Oct-2022 02:32:14 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:32:14 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:33:32 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 224 in /home/mowadaba/public_html/pfe/home.php on line 224
+[29-Oct-2022 02:33:32 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:33:32 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:34:28 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 224 in /home/mowadaba/public_html/pfe/home.php on line 224
+[29-Oct-2022 02:34:28 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:34:28 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:34:51 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 224 in /home/mowadaba/public_html/pfe/home.php on line 224
+[29-Oct-2022 02:34:51 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:34:51 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:39:28 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 225 in /home/mowadaba/public_html/pfe/home.php on line 225
+[29-Oct-2022 02:39:28 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:39:28 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:40:29 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 225 in /home/mowadaba/public_html/pfe/home.php on line 225
+[29-Oct-2022 02:40:29 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:40:29 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 02:41:33 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 225 in /home/mowadaba/public_html/pfe/home.php on line 225
+[29-Oct-2022 02:41:33 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 02:41:33 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 23:09:26 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 225 in /home/mowadaba/public_html/pfe/home.php on line 225
+[29-Oct-2022 23:09:26 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[29-Oct-2022 23:09:26 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 23:09:26 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 23:09:49 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 225 in /home/mowadaba/public_html/pfe/home.php on line 225
+[29-Oct-2022 23:09:49 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 23:09:49 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 23:10:06 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 225 in /home/mowadaba/public_html/pfe/home.php on line 225
+[29-Oct-2022 23:10:06 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 23:10:06 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 23:15:50 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 310 in /home/mowadaba/public_html/pfe/home.php on line 310
+[29-Oct-2022 23:15:50 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/pfe/home.php on line 75
+[29-Oct-2022 23:15:50 Africa/Casablanca] PHP Warning:  require(conex.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/pfe/home.php on line 76
+[29-Oct-2022 23:15:50 Africa/Casablanca] PHP Fatal error:  require(): Failed opening required 'conex.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/pfe/home.php on line 76
+[29-Oct-2022 23:15:59 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 310 in /home/mowadaba/public_html/pfe/home.php on line 310
+[29-Oct-2022 23:15:59 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/pfe/home.php on line 75
+[29-Oct-2022 23:15:59 Africa/Casablanca] PHP Warning:  require(conex.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/pfe/home.php on line 76
+[29-Oct-2022 23:15:59 Africa/Casablanca] PHP Fatal error:  require(): Failed opening required 'conex.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/pfe/home.php on line 76
+[29-Oct-2022 23:16:36 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 310 in /home/mowadaba/public_html/pfe/home.php on line 310
+[29-Oct-2022 23:16:36 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/pfe/home.php on line 75
+[29-Oct-2022 23:16:36 Africa/Casablanca] PHP Warning:  require(conex.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/pfe/home.php on line 76
+[29-Oct-2022 23:16:36 Africa/Casablanca] PHP Fatal error:  require(): Failed opening required 'conex.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/pfe/home.php on line 76
+[29-Oct-2022 23:16:39 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 310 in /home/mowadaba/public_html/pfe/home.php on line 310
+[29-Oct-2022 23:16:39 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/pfe/home.php on line 75
+[29-Oct-2022 23:16:39 Africa/Casablanca] PHP Warning:  require(conex.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/pfe/home.php on line 76
+[29-Oct-2022 23:16:39 Africa/Casablanca] PHP Fatal error:  require(): Failed opening required 'conex.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/pfe/home.php on line 76
+[29-Oct-2022 23:17:59 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 310 in /home/mowadaba/public_html/pfe/home.php on line 310
+[29-Oct-2022 23:17:59 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/pfe/home.php on line 75
+[29-Oct-2022 23:17:59 Africa/Casablanca] PHP Warning:  require(conex.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/pfe/home.php on line 76
+[29-Oct-2022 23:17:59 Africa/Casablanca] PHP Fatal error:  require(): Failed opening required 'conex.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/pfe/home.php on line 76
+[29-Oct-2022 23:19:08 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 310 in /home/mowadaba/public_html/pfe/home.php on line 310
+[29-Oct-2022 23:19:08 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/pfe/home.php on line 74
+[29-Oct-2022 23:19:08 Africa/Casablanca] PHP Warning:  require(conex.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/pfe/home.php on line 75
+[29-Oct-2022 23:19:08 Africa/Casablanca] PHP Fatal error:  require(): Failed opening required 'conex.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/pfe/home.php on line 75
+[29-Oct-2022 23:22:51 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 311 in /home/mowadaba/public_html/pfe/home.php on line 311
+[29-Oct-2022 23:22:51 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/pfe/home.php on line 83
+[29-Oct-2022 23:22:51 Africa/Casablanca] PHP Warning:  require(conex.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/pfe/home.php on line 84
+[29-Oct-2022 23:22:51 Africa/Casablanca] PHP Fatal error:  require(): Failed opening required 'conex.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/pfe/home.php on line 84
+[29-Oct-2022 23:22:55 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 311 in /home/mowadaba/public_html/pfe/home.php on line 311
+[29-Oct-2022 23:22:55 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/pfe/home.php on line 83
+[29-Oct-2022 23:22:55 Africa/Casablanca] PHP Warning:  require(conex.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/pfe/home.php on line 84
+[29-Oct-2022 23:22:55 Africa/Casablanca] PHP Fatal error:  require(): Failed opening required 'conex.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/pfe/home.php on line 84
+[29-Oct-2022 23:23:35 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 311 in /home/mowadaba/public_html/pfe/home.php on line 311
+[29-Oct-2022 23:23:35 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/pfe/home.php on line 83
+[29-Oct-2022 23:23:35 Africa/Casablanca] PHP Warning:  require(conex.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/pfe/home.php on line 84
+[29-Oct-2022 23:23:35 Africa/Casablanca] PHP Fatal error:  require(): Failed opening required 'conex.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/pfe/home.php on line 84
+[29-Oct-2022 23:28:07 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 309 in /home/mowadaba/public_html/pfe/home.php on line 309
+[29-Oct-2022 23:28:07 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/pfe/home.php on line 85
+[29-Oct-2022 23:28:07 Africa/Casablanca] PHP Warning:  require(conex.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/pfe/home.php on line 86
+[29-Oct-2022 23:28:07 Africa/Casablanca] PHP Fatal error:  require(): Failed opening required 'conex.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/pfe/home.php on line 86
+[29-Oct-2022 23:28:49 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 302 in /home/mowadaba/public_html/pfe/home.php on line 302
+[29-Oct-2022 23:28:49 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/pfe/home.php on line 85
+[29-Oct-2022 23:28:49 Africa/Casablanca] PHP Warning:  require(conex.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/pfe/home.php on line 86
+[29-Oct-2022 23:28:49 Africa/Casablanca] PHP Fatal error:  require(): Failed opening required 'conex.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/pfe/home.php on line 86
+[29-Oct-2022 23:30:19 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 300 in /home/mowadaba/public_html/pfe/home.php on line 300
+[29-Oct-2022 23:30:19 Africa/Casablanca] PHP Warning:  require(conex.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/pfe/home.php on line 11
+[29-Oct-2022 23:30:19 Africa/Casablanca] PHP Fatal error:  require(): Failed opening required 'conex.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/pfe/home.php on line 11
+[29-Oct-2022 23:37:05 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 300 in /home/mowadaba/public_html/pfe/home.php on line 300
+[29-Oct-2022 23:37:05 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 23:37:05 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 23:37:37 Africa/Casablanca] PHP Warning:  Unterminated comment starting line 300 in /home/mowadaba/public_html/pfe/home.php on line 300
+[29-Oct-2022 23:37:37 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 23:37:37 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 23:41:10 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 23:41:10 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 23:41:18 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Oct-2022 23:41:18 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Oct-2022 23:43:04 Africa/Casablanca] PHP Warning:  require_once(../../include/sidenav.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/pfe/home.php on line 240
+[29-Oct-2022 23:43:04 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required '../../include/sidenav.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/pfe/home.php on line 240
+[29-Oct-2022 23:53:02 Africa/Casablanca] PHP Notice:  Undefined variable: conn in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 23:53:02 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 121
+[29-Oct-2022 23:53:02 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:126
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 126
+[30-Oct-2022 00:02:33 Africa/Casablanca] PHP Notice:  Undefined variable: conn in /home/mowadaba/public_html/pfe/home.php on line 123
+[30-Oct-2022 00:02:33 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 123
+[30-Oct-2022 00:02:33 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:128
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 128
+[30-Oct-2022 00:02:45 Africa/Casablanca] PHP Notice:  Undefined variable: conn in /home/mowadaba/public_html/pfe/home.php on line 123
+[30-Oct-2022 00:02:45 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 123
+[30-Oct-2022 00:02:45 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:128
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 128
+[30-Oct-2022 00:04:09 Africa/Casablanca] PHP Notice:  Undefined variable: conn in /home/mowadaba/public_html/pfe/home.php on line 122
+[30-Oct-2022 00:04:09 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 122
+[30-Oct-2022 00:04:09 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 127
+[30-Oct-2022 00:05:16 Africa/Casablanca] PHP Notice:  Undefined variable: conn in /home/mowadaba/public_html/pfe/home.php on line 122
+[30-Oct-2022 00:05:16 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 122
+[30-Oct-2022 00:05:16 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 127
+[30-Oct-2022 00:07:00 Africa/Casablanca] PHP Warning:  require_once(./include/dbcon.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/pfe/home.php on line 12
+[30-Oct-2022 00:07:00 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required './include/dbcon.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/pfe/home.php on line 12
+[30-Oct-2022 00:35:49 Africa/Casablanca] PHP Notice:  Undefined variable: conn in /home/mowadaba/public_html/pfe/home.php on line 245
+[30-Oct-2022 00:35:49 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 245
+[30-Oct-2022 00:35:49 Africa/Casablanca] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 246
+[30-Oct-2022 00:35:49 Africa/Casablanca] PHP Warning:  Invalid argument supplied for foreach() in /home/mowadaba/public_html/pfe/home.php on line 260
+[30-Oct-2022 00:37:03 Africa/Casablanca] PHP Notice:  Undefined variable: conn in /home/mowadaba/public_html/pfe/home.php on line 245
+[30-Oct-2022 00:37:03 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/home.php on line 245
+[30-Oct-2022 00:37:03 Africa/Casablanca] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/mowadaba/public_html/pfe/home.php on line 246
+[30-Oct-2022 00:37:03 Africa/Casablanca] PHP Warning:  Invalid argument supplied for foreach() in /home/mowadaba/public_html/pfe/home.php on line 260
+[30-Oct-2022 00:45:09 Africa/Casablanca] PHP Notice:  Undefined variable: fil in /home/mowadaba/public_html/pfe/home.php on line 162
+[30-Oct-2022 00:46:32 Africa/Casablanca] PHP Notice:  Undefined variable: fil in /home/mowadaba/public_html/pfe/home.php on line 162
+[30-Oct-2022 00:52:22 Africa/Casablanca] PHP Warning:  move_uploaded_file(upload/16670875423372299211977274170.pdf): failed to open stream: No such file or directory in /home/mowadaba/public_html/pfe/home.php on line 157
+[30-Oct-2022 00:52:22 Africa/Casablanca] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpycgVRn' to 'upload/16670875423372299211977274170.pdf' in /home/mowadaba/public_html/pfe/home.php on line 157
+[30-Oct-2022 01:39:44 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/delete.php on line 10
+[30-Oct-2022 01:39:44 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/delete.php on line 10
+[30-Oct-2022 01:41:20 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/delete.php on line 10
+[30-Oct-2022 01:41:20 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/delete.php on line 10
+[30-Oct-2022 01:42:14 Africa/Casablanca] PHP Notice:  Undefined variable: con in /home/mowadaba/public_html/pfe/delete.php on line 10
+[30-Oct-2022 01:42:14 Africa/Casablanca] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mowadaba/public_html/pfe/delete.php on line 10
+[31-Oct-2022 09:33:25 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/pfe/home.php on line 269
+[31-Oct-2022 09:33:25 Africa/Casablanca] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/pfe/home.php on line 270
+[31-Oct-2022 09:33:25 Africa/Casablanca] PHP Warning:  Invalid argument supplied for foreach() in /home/mowadaba/public_html/pfe/home.php on line 286
+[31-Oct-2022 09:33:25 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[31-Oct-2022 09:33:25 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[31-Oct-2022 09:33:25 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[31-Oct-2022 10:19:48 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/pfe/home.php on line 269
+[31-Oct-2022 10:19:48 Africa/Casablanca] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/pfe/home.php on line 270
+[31-Oct-2022 10:19:48 Africa/Casablanca] PHP Warning:  Invalid argument supplied for foreach() in /home/mowadaba/public_html/pfe/home.php on line 286
+[31-Oct-2022 10:19:48 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[31-Oct-2022 10:19:48 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[31-Oct-2022 10:19:48 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[31-Oct-2022 14:04:38 Africa/Casablanca] PHP Notice:  Undefined index: extension in /home/mowadaba/public_html/pfe/home.php on line 156
+[31-Oct-2022 14:05:02 Africa/Casablanca] PHP Notice:  Undefined variable: titre in /home/mowadaba/public_html/pfe/home.php on line 212
+[31-Oct-2022 14:05:02 Africa/Casablanca] PHP Notice:  Undefined variable: filier in /home/mowadaba/public_html/pfe/home.php on line 219
+[31-Oct-2022 14:05:02 Africa/Casablanca] PHP Notice:  Undefined variable: filier in /home/mowadaba/public_html/pfe/home.php on line 220
+[31-Oct-2022 14:05:02 Africa/Casablanca] PHP Notice:  Undefined variable: description in /home/mowadaba/public_html/pfe/home.php on line 225
+[31-Oct-2022 14:05:02 Africa/Casablanca] PHP Notice:  Undefined variable: files in /home/mowadaba/public_html/pfe/home.php on line 236
+[31-Oct-2022 14:06:46 Africa/Casablanca] PHP Notice:  Undefined variable: titre in /home/mowadaba/public_html/pfe/home.php on line 212
+[31-Oct-2022 14:06:46 Africa/Casablanca] PHP Notice:  Undefined variable: filier in /home/mowadaba/public_html/pfe/home.php on line 219
+[31-Oct-2022 14:06:46 Africa/Casablanca] PHP Notice:  Undefined variable: filier in /home/mowadaba/public_html/pfe/home.php on line 220
+[31-Oct-2022 14:06:46 Africa/Casablanca] PHP Notice:  Undefined variable: description in /home/mowadaba/public_html/pfe/home.php on line 225
+[31-Oct-2022 14:06:46 Africa/Casablanca] PHP Notice:  Undefined variable: files in /home/mowadaba/public_html/pfe/home.php on line 236
+[02-Nov-2022 09:59:12 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/pfe/home.php on line 269
+[02-Nov-2022 09:59:12 Africa/Casablanca] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/pfe/home.php on line 270
+[02-Nov-2022 09:59:12 Africa/Casablanca] PHP Warning:  Invalid argument supplied for foreach() in /home/mowadaba/public_html/pfe/home.php on line 286
+[02-Nov-2022 09:59:12 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[02-Nov-2022 09:59:12 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[02-Nov-2022 09:59:12 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[02-Nov-2022 13:56:58 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/pfe/home.php on line 269
+[02-Nov-2022 13:56:58 Africa/Casablanca] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/pfe/home.php on line 270
+[02-Nov-2022 13:56:58 Africa/Casablanca] PHP Warning:  Invalid argument supplied for foreach() in /home/mowadaba/public_html/pfe/home.php on line 286
+[02-Nov-2022 13:56:58 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[02-Nov-2022 13:56:58 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[02-Nov-2022 13:56:58 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[10-Nov-2022 12:28:26 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/pfe/home.php on line 269
+[10-Nov-2022 12:28:26 Africa/Casablanca] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/pfe/home.php on line 270
+[10-Nov-2022 12:28:26 Africa/Casablanca] PHP Warning:  Invalid argument supplied for foreach() in /home/mowadaba/public_html/pfe/home.php on line 286
+[10-Nov-2022 12:28:26 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[10-Nov-2022 12:28:26 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[10-Nov-2022 12:28:26 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[13-Nov-2022 20:43:49 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 150
+[13-Nov-2022 20:45:58 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 150
+[13-Nov-2022 20:46:27 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 150
+[13-Nov-2022 21:22:27 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 150
+[13-Nov-2022 23:48:58 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/pfe/home.php on line 269
+[13-Nov-2022 23:48:58 Africa/Casablanca] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/pfe/home.php on line 270
+[13-Nov-2022 23:48:58 Africa/Casablanca] PHP Warning:  Invalid argument supplied for foreach() in /home/mowadaba/public_html/pfe/home.php on line 286
+[13-Nov-2022 23:48:58 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[13-Nov-2022 23:48:58 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[13-Nov-2022 23:48:58 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[13-Nov-2022 23:49:27 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 150
+[14-Nov-2022 15:34:45 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/pfe/home.php on line 269
+[14-Nov-2022 15:34:45 Africa/Casablanca] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/pfe/home.php on line 270
+[14-Nov-2022 15:34:45 Africa/Casablanca] PHP Warning:  Invalid argument supplied for foreach() in /home/mowadaba/public_html/pfe/home.php on line 286
+[14-Nov-2022 15:34:45 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[14-Nov-2022 15:34:45 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[14-Nov-2022 15:34:45 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[16-Nov-2022 12:03:15 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/pfe/home.php on line 269
+[16-Nov-2022 12:03:15 Africa/Casablanca] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/pfe/home.php on line 270
+[16-Nov-2022 12:03:15 Africa/Casablanca] PHP Warning:  Invalid argument supplied for foreach() in /home/mowadaba/public_html/pfe/home.php on line 286
+[16-Nov-2022 12:03:15 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[16-Nov-2022 12:03:15 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[16-Nov-2022 12:03:15 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[17-Nov-2022 13:59:21 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/pfe/home.php on line 269
+[17-Nov-2022 13:59:21 Africa/Casablanca] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/pfe/home.php on line 270
+[17-Nov-2022 13:59:21 Africa/Casablanca] PHP Warning:  Invalid argument supplied for foreach() in /home/mowadaba/public_html/pfe/home.php on line 286
+[17-Nov-2022 13:59:21 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[17-Nov-2022 13:59:21 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[17-Nov-2022 13:59:21 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[17-Nov-2022 18:01:27 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/pfe/home.php on line 269
+[17-Nov-2022 18:01:27 Africa/Casablanca] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/pfe/home.php on line 270
+[17-Nov-2022 18:01:27 Africa/Casablanca] PHP Warning:  Invalid argument supplied for foreach() in /home/mowadaba/public_html/pfe/home.php on line 286
+[17-Nov-2022 18:01:27 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[17-Nov-2022 18:01:27 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[17-Nov-2022 18:01:27 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[17-Nov-2022 18:46:05 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/pfe/home.php on line 269
+[17-Nov-2022 18:46:05 Africa/Casablanca] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/pfe/home.php on line 270
+[17-Nov-2022 18:46:05 Africa/Casablanca] PHP Warning:  Invalid argument supplied for foreach() in /home/mowadaba/public_html/pfe/home.php on line 286
+[17-Nov-2022 18:46:05 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[17-Nov-2022 18:46:05 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[17-Nov-2022 18:46:05 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[19-Nov-2022 21:36:25 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/pfe/home.php on line 139
+[19-Nov-2022 21:36:25 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 150
+[19-Nov-2022 21:38:47 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 150
+[19-Nov-2022 21:45:36 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 150
+[19-Nov-2022 21:59:04 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 150
+[24-Nov-2022 21:38:06 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 150
+[25-Nov-2022 11:07:05 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/pfe/home.php on line 269
+[25-Nov-2022 11:07:05 Africa/Casablanca] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/pfe/home.php on line 270
+[25-Nov-2022 11:07:05 Africa/Casablanca] PHP Warning:  Invalid argument supplied for foreach() in /home/mowadaba/public_html/pfe/home.php on line 286
+[25-Nov-2022 11:07:05 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[25-Nov-2022 11:07:05 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[25-Nov-2022 11:07:05 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[25-Nov-2022 15:20:09 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 150
+[25-Nov-2022 15:20:31 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/mowadaba/public_html/pfe/home.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/pfe/home.php on line 150
+[25-Nov-2022 17:03:35 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/pfe/home.php on line 269
+[25-Nov-2022 17:03:35 Africa/Casablanca] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/pfe/home.php on line 270
+[25-Nov-2022 17:03:35 Africa/Casablanca] PHP Warning:  Invalid argument supplied for foreach() in /home/mowadaba/public_html/pfe/home.php on line 286
+[25-Nov-2022 17:03:35 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[25-Nov-2022 17:03:35 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[25-Nov-2022 17:03:35 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Nov-2022 09:02:28 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[29-Nov-2022 09:02:28 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Nov-2022 09:02:28 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[29-Nov-2022 09:23:12 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[29-Nov-2022 09:23:12 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[29-Nov-2022 09:23:12 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58
+[05-Dec-2022 13:28:04 Africa/Casablanca] PHP Notice:  Undefined index: uid in /home/mowadaba/public_html/include/sidenav.php on line 4
+[05-Dec-2022 13:28:04 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 16
+[05-Dec-2022 13:28:04 Africa/Casablanca] PHP Notice:  Undefined variable: teacher_id in /home/mowadaba/public_html/include/sidenav.php on line 58

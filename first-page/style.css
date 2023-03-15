@@ -1,0 +1,52 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.accueil-header {
+  text-align: center;
+  height: 200px;
+  justify-content: center;
+}
+#logo-men{
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+}
+.container{
+    text-align: center;
+    margin: 0% 5% 10% 5%;
+}
+
+
+
+
+
+
+
+
+.accueil-footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background: #f2e4c4;
+    border-top: 1px solid #d2d6de;
+    padding: 12px;
+}
+
+.pull-right {
+    float: left !important;
+    padding-left: 5%;
+}
+
+.pull-left {
+    float: right !important;
+    padding-right: 5%;
+}
+
+@media only screen and (max-width: 500px) {
+    #logo-men{
+        width: 100%;
+  }
+}

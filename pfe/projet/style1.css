@@ -1,0 +1,282 @@
+header{
+    padding: 19px;
+    
+    
+}
+body{
+background: linear-gradient(0deg,transparent,lightblue,lightblue);
+background-repeat: no-repeat;
+
+}
+
+a{
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Silkscreen', cursive;
+}
+h1{
+    font-family: 'Rubik', sans-serif;
+    margin: 7px 0;
+}
+p{
+    font-family: 'Tajawal', sans-serif;
+    margin: -6px 0 24px 0;
+}
+label{
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Silkscreen', cursive;
+}
+
+
+
+.menu{
+display: flex;
+justify-content: center;
+}
+.titre-projet{
+    font-family: 'Krona One', sans-serif !important;
+
+}
+.succes2{
+    position: relative;
+    display: flex;
+    background: aliceblue;
+    width: 50%;
+    height: auto;
+    align-items: center;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%), 0 5px 5px 0 rgb(0 0 0 / 24%);
+    margin-top: 34px;
+    border-radius: 10px;
+    justify-content: space-around;
+    padding: 9px 0 ;
+    overflow: hidden;
+}
+.succes2::before{
+content: '';
+position: absolute;
+top: 31%;
+left: -52%;
+width: 553px;
+height: 165px;
+background: linear-gradient(0deg,transparent,lightblue,#000000);
+transform-origin: bottom right;
+animation: animate 6s linear infinite ;
+}
+
+.succes2::after{
+    content: '';
+    position: absolute;
+    top: 31%;
+    left: -52%;
+    width: 553px;
+    height: 165px;
+    background: linear-gradient(0deg,transparent,lightblue,#000000);
+    transform-origin: bottom right;
+    animation: animate 6s linear infinite ;
+    animation-delay: -3s;
+    }
+@keyframes animate{
+    0%{transform: rotate(0deg);
+}
+    100%{transform: rotate(360deg);
+}
+
+
+}
+
+
+.sucess{
+text-align: center;
+background: aliceblue;
+inset: 2px;
+width: 98%;
+height: 99%;
+padding: 9px 0 ;
+border-radius: 10px;
+z-index: 10;
+}
+span{
+    color: rgb(178, 178, 243);
+    text-decoration: underline;
+}
+#ligne{
+background: black;
+width: 85%;
+height: 1px;
+}
+.pfe{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.itempfe{
+    padding: 11px 0 0 0;
+}
+.itempfe1{
+    padding: 17px 0 0 0;
+}
+.itempfe3{
+    margin-top: 34px;
+}
+.itempfe2-1{
+padding-right: 51px;
+}
+.itempfe2-2{
+    padding-right: 150px;
+    }
+.itempfe2-3{
+        padding-right: 17px;
+        }
+.itempfe2-4{
+padding-right: 17px;
+
+        }
+#titre{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+#dropdown{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    color: gray;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+#description{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 10px;
+    transition: 0.5s;
+    
+}
+.brand-logo{
+    position: absolute;
+    top: 1%;
+    left: 7%;
+    font-family: -apple-system, 
+                BlinkMacSystemFont, 
+                "Segoe UI", 
+                Roboto, 
+                Oxygen-Sans, 
+                Ubuntu, 
+                Cantarell, 
+                "Helvetica Neue", 
+                sans-serif;
+    font-size: 30.45px;
+    text-decoration: none;
+    color: white;
+}
+#deco{
+background: white;
+text-decoration: none;
+margin-top: 10px;
+padding: 10px;
+border-radius: 10px;
+box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%), 0 5px 5px 0 rgb(0 0 0 / 24%);
+color: black;
+transition: 0.5s;
+
+}
+#deco:hover{
+    background: black;
+    color: white ;
+}
+#btn-projet{
+    position: absolute;
+    top: 17px;
+    right: 186px;
+    background: white;
+    text-decoration: none;
+    padding:10px 13px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%), 0 5px 5px 0 rgb(0 0 0 / 24%);
+    color: black;
+    transition: 0.5s;
+    z-index: 0;
+
+
+}
+#btn-projet:hover{
+    background: black;
+    color: white;
+}
+#fichier{
+    background: rgb(178, 178, 243 ,0.288);
+    padding: 10px 8px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%), 0 5px 5px 0 rgb(0 0 0 / 24%);
+    color: black;
+    cursor: pointer;
+    transition: 0.5s;
+}
+#fichier:hover{
+    background: black;
+    color: rgb(178, 178, 243 );
+    border-color: rgb(178, 178, 243 ) ;
+    transition: 0.5s;
+}
+
+#envoyer{
+    background: rgb(178, 178, 243);
+padding: 10px 35px;
+border-radius: 10px;
+box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%), 0 5px 5px 0 rgb(0 0 0 / 24%);
+color: black;
+font-family: 'Silkscreen', cursive;
+border: none;
+cursor: pointer;
+transition: 0.5s;
+
+}
+#envoyer:hover{
+    background: black;
+    color: rgb(178, 178, 243) ;
+    box-shadow: 0 0 20px 0 rgba(171, 134, 240, 0.2), 0 5px 5px 0 rgba(152, 122, 199, 0.24);
+}
+#titre:hover{
+border-color: rgb(56, 56, 98) ; 
+}
+#dropdown:hover{
+    border-color: rgb(56, 56, 98) ; 
+}
+#description:hover{
+    border-color: rgb(56, 56, 98) ; 
+}
+.pull-right {
+    float: left !important;
+}
+
+.pull-left {
+    float: right !important;
+}
+.accueil-footer {
+    position: absolute;
+    left: 18%;
+    width: 60%;
+    padding: 12px;
+    margin-top: 3px;
+    font-family: -apple-system, 
+                BlinkMacSystemFont, 
+                "Segoe UI", 
+                Roboto, 
+                Oxygen-Sans, 
+                Ubuntu, 
+                Cantarell, 
+                "Helvetica Neue", 
+                sans-serif;
+
+}

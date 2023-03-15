@@ -1,0 +1,330 @@
+[20-May-2022 15:25:59 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:26:02 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:26:06 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:26:06 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 32
+[20-May-2022 15:26:06 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 41
+[20-May-2022 15:28:13 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:28:13 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 32
+[20-May-2022 15:28:13 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 41
+[20-May-2022 15:28:14 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:28:19 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:28:28 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:28:28 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 32
+[20-May-2022 15:28:28 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 41
+[20-May-2022 15:30:03 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:30:09 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:30:09 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 28
+[20-May-2022 15:30:09 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 37
+[20-May-2022 15:30:14 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:30:16 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:30:18 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:30:34 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:30:38 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:30:43 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:32:18 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:34:23 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:34:30 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:34:30 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginprof.php on line 31
+[20-May-2022 15:34:30 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginprof.php on line 40
+[20-May-2022 15:34:32 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:34:34 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:34:42 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 15:34:42 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 28
+[20-May-2022 15:34:42 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 37
+[20-May-2022 16:54:56 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 16:56:38 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 17:00:02 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 17:00:07 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 17:10:53 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 17:11:10 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 17:12:26 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 17:12:36 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 17:12:36 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 28
+[20-May-2022 17:12:36 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 34
+[20-May-2022 17:14:12 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 17:14:12 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 29
+[20-May-2022 17:14:12 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 35
+[20-May-2022 17:14:19 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 17:14:26 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 17:14:26 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 29
+[20-May-2022 17:14:26 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 35
+[20-May-2022 17:15:00 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 17:15:00 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 29
+[20-May-2022 17:15:00 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 35
+[20-May-2022 17:15:11 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 17:15:11 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 29
+[20-May-2022 17:15:11 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 35
+[20-May-2022 17:15:14 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 17:15:14 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 29
+[20-May-2022 17:15:14 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 35
+[20-May-2022 17:15:26 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/include/login_header.php on line 13
+[20-May-2022 17:15:26 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 29
+[20-May-2022 17:15:26 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/login_header.php:1) in /home/mowadaba/public_html/loginadmin.php on line 35
+[20-May-2022 17:44:13 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/index.php on line 80
+[20-May-2022 17:44:13 Africa/Casablanca] PHP Notice:  Undefined variable: stander in /home/mowadaba/public_html/index.php on line 83
+[20-May-2022 17:44:13 Africa/Casablanca] PHP Notice:  Undefined variable: name in /home/mowadaba/public_html/index.php on line 116
+[20-May-2022 18:13:35 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/index.php on line 80
+[20-May-2022 18:13:35 Africa/Casablanca] PHP Notice:  Undefined variable: stander in /home/mowadaba/public_html/index.php on line 83
+[20-May-2022 18:13:39 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/index.php on line 80
+[20-May-2022 18:13:39 Africa/Casablanca] PHP Notice:  Undefined variable: stander in /home/mowadaba/public_html/index.php on line 83
+[20-May-2022 18:13:39 Africa/Casablanca] PHP Notice:  Undefined variable: name in /home/mowadaba/public_html/index.php on line 116
+[20-May-2022 18:13:54 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/index.php on line 80
+[20-May-2022 18:13:54 Africa/Casablanca] PHP Notice:  Undefined variable: stander in /home/mowadaba/public_html/index.php on line 83
+[20-May-2022 18:13:57 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/index.php on line 80
+[20-May-2022 18:13:57 Africa/Casablanca] PHP Notice:  Undefined variable: stander in /home/mowadaba/public_html/index.php on line 83
+[20-May-2022 18:13:57 Africa/Casablanca] PHP Notice:  Undefined variable: name in /home/mowadaba/public_html/index.php on line 116
+[20-May-2022 18:14:09 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/index.php on line 80
+[20-May-2022 18:14:09 Africa/Casablanca] PHP Notice:  Undefined variable: stander in /home/mowadaba/public_html/index.php on line 83
+[20-May-2022 18:14:10 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/index.php on line 80
+[20-May-2022 18:14:10 Africa/Casablanca] PHP Notice:  Undefined variable: stander in /home/mowadaba/public_html/index.php on line 83
+[20-May-2022 18:14:15 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/index.php on line 80
+[20-May-2022 18:14:15 Africa/Casablanca] PHP Notice:  Undefined variable: stander in /home/mowadaba/public_html/index.php on line 83
+[20-May-2022 18:14:15 Africa/Casablanca] PHP Notice:  Undefined variable: name in /home/mowadaba/public_html/index.php on line 116
+[20-May-2022 18:14:22 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/index.php on line 80
+[20-May-2022 18:14:22 Africa/Casablanca] PHP Notice:  Undefined variable: stander in /home/mowadaba/public_html/index.php on line 83
+[24-May-2022 23:42:30 Africa/Casablanca] PHP Warning:  require_once(../include/login_header.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/loginadmin.php on line 2
+[24-May-2022 23:42:30 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required '../include/login_header.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/loginadmin.php on line 2
+[24-May-2022 23:43:39 Africa/Casablanca] PHP Warning:  require_once(../include/login_header.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/loginadmin.php on line 2
+[24-May-2022 23:43:39 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required '../include/login_header.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/loginadmin.php on line 2
+[24-May-2022 23:43:52 Africa/Casablanca] PHP Warning:  require_once(../include/login_header.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/loginadmin.php on line 2
+[24-May-2022 23:43:52 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required '../include/login_header.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/loginadmin.php on line 2
+[26-May-2022 21:49:54 Africa/Casablanca] PHP Notice:  Undefined variable: ch in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 21:49:54 Africa/Casablanca] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 21:51:39 Africa/Casablanca] PHP Notice:  Undefined variable: ch in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 21:51:39 Africa/Casablanca] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 21:52:43 Africa/Casablanca] PHP Notice:  Undefined variable: ch in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 21:52:43 Africa/Casablanca] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 21:54:27 Africa/Casablanca] PHP Notice:  Undefined variable: ch in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 21:54:27 Africa/Casablanca] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 21:55:15 Africa/Casablanca] PHP Notice:  Undefined variable: ch in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 21:55:15 Africa/Casablanca] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 21:55:18 Africa/Casablanca] PHP Notice:  Undefined variable: ch in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 21:55:18 Africa/Casablanca] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 21:56:06 Africa/Casablanca] PHP Notice:  Undefined variable: ch in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 21:56:06 Africa/Casablanca] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 21:58:39 Africa/Casablanca] PHP Notice:  Undefined variable: ch in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 21:58:39 Africa/Casablanca] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/mowadaba/public_html/sendsms.php on line 29
+[26-May-2022 22:02:09 Africa/Casablanca] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/mowadaba/public_html/sendsms.php on line 21
+[26-May-2022 22:02:15 Africa/Casablanca] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/mowadaba/public_html/sendsms.php on line 21
+[26-May-2022 22:14:29 Africa/Casablanca] PHP Notice:  Undefined variable: ch in /home/mowadaba/public_html/sendsms.php on line 10
+[26-May-2022 22:14:29 Africa/Casablanca] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/mowadaba/public_html/sendsms.php on line 10
+[26-May-2022 22:14:59 Africa/Casablanca] PHP Notice:  Undefined variable: ch in /home/mowadaba/public_html/sendsms.php on line 10
+[26-May-2022 22:14:59 Africa/Casablanca] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/mowadaba/public_html/sendsms.php on line 10
+[26-May-2022 23:40:03 Africa/Casablanca] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home/mowadaba/public_html/sendsms.php on line 36
+[26-May-2022 23:53:27 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mb_detect_encoding() in /home/mowadaba/public_html/sendsms.php:271
+Stack trace:
+#0 /home/mowadaba/public_html/sendsms.php(198): character_resolve('Test message: a...')
+#1 /home/mowadaba/public_html/sendsms.php(60): seven_bit_sms('fadili101', 'Ibnghazala1', 'Test message: a...', '+212673697101')
+#2 {main}
+  thrown in /home/mowadaba/public_html/sendsms.php on line 271
+[26-May-2022 23:53:51 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mb_detect_encoding() in /home/mowadaba/public_html/sendsms.php:271
+Stack trace:
+#0 /home/mowadaba/public_html/sendsms.php(198): character_resolve('Test message: a...')
+#1 /home/mowadaba/public_html/sendsms.php(60): seven_bit_sms('fadili101', 'Ibnghazala1', 'Test message: a...', '+212673697101')
+#2 {main}
+  thrown in /home/mowadaba/public_html/sendsms.php on line 271
+[28-Oct-2022 01:05:54 Africa/Casablanca] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/inscription.php on line 18
+[28-Oct-2022 01:50:34 Africa/Casablanca] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/mowadaba/public_html/inscription.php on line 36
+[28-Oct-2022 01:56:25 Africa/Casablanca] PHP Parse error:  syntax error, unexpected end of file in /home/mowadaba/public_html/inscription.php on line 175
+[28-Oct-2022 01:57:39 Africa/Casablanca] PHP Warning:  require_once(PHPMailer/phpmailer.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/inscription.php on line 2
+[28-Oct-2022 01:57:39 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/inscription.php on line 2
+[28-Oct-2022 01:59:31 Africa/Casablanca] PHP Warning:  require_once(PHPMailer/phpmailer.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/inscription.php on line 2
+[28-Oct-2022 01:59:31 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/inscription.php on line 2
+[28-Oct-2022 02:02:07 Africa/Casablanca] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/inscription.php on line 43
+[28-Oct-2022 02:02:07 Africa/Casablanca] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/inscription.php on line 43
+[28-Oct-2022 02:03:50 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\SMTP' not found in /home/mowadaba/public_html/inscription.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/inscription.php on line 50
+[28-Oct-2022 02:08:28 Africa/Casablanca] PHP Fatal error:  Cannot declare class PHPMailer\PHPMailer\PHPMailer, because the name is already in use in /home/mowadaba/public_html/PHPMailer/src/PHPMailer.php on line 32
+[28-Oct-2022 02:09:34 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/mowadaba/public_html/inscription.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/inscription.php on line 44
+[28-Oct-2022 02:11:19 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/mowadaba/public_html/inscription.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/inscription.php on line 44
+[28-Oct-2022 02:14:56 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/mowadaba/public_html/inscription.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/inscription.php on line 45
+[28-Oct-2022 02:16:52 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/mowadaba/public_html/inscription.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/inscription.php on line 49
+[28-Oct-2022 02:18:16 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer' not found in /home/mowadaba/public_html/inscription.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/inscription.php on line 45
+[28-Oct-2022 02:27:16 Africa/Casablanca] PHP Notice:  Undefined variable: nomThis in /home/mowadaba/public_html/inscription.php on line 74
+[28-Oct-2022 02:47:43 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/PHPMailer/src/SMTP.php:283) in /home/mowadaba/public_html/inscription.php on line 85
+[28-Oct-2022 02:48:39 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/PHPMailer/src/SMTP.php:283) in /home/mowadaba/public_html/inscription.php on line 81
+[28-Oct-2022 16:33:22 Africa/Casablanca] PHP Notice:  Undefined variable: mysqli in /home/mowadaba/public_html/inscription.php on line 23
+[28-Oct-2022 16:33:22 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/mowadaba/public_html/inscription.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/inscription.php on line 23
+[04-Nov-2022 19:12:40 Africa/Casablanca] PHP Notice:  Undefined index: num in /home/mowadaba/public_html/curl.php on line 9
+[04-Nov-2022 19:12:40 Africa/Casablanca] PHP Notice:  Undefined variable: curl in /home/mowadaba/public_html/curl.php on line 18
+[04-Nov-2022 19:12:40 Africa/Casablanca] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/mowadaba/public_html/curl.php on line 18
+[04-Nov-2022 19:12:40 Africa/Casablanca] PHP Notice:  Undefined variable: curl in /home/mowadaba/public_html/curl.php on line 20
+[04-Nov-2022 19:12:40 Africa/Casablanca] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/mowadaba/public_html/curl.php on line 20
+[04-Nov-2022 19:12:40 Africa/Casablanca] PHP Notice:  Undefined variable: curl in /home/mowadaba/public_html/curl.php on line 21
+[04-Nov-2022 19:12:40 Africa/Casablanca] PHP Warning:  curl_close() expects parameter 1 to be resource, null given in /home/mowadaba/public_html/curl.php on line 21
+[04-Nov-2022 19:13:17 Africa/Casablanca] PHP Notice:  Undefined index: num in /home/mowadaba/public_html/curl.php on line 9
+[07-Nov-2022 17:01:34 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mb_convert_encoding() in /home/mowadaba/public_html/curl1.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 5
+[07-Nov-2022 17:06:09 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mb_internal_encoding() in /home/mowadaba/public_html/curl1.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 3
+[07-Nov-2022 17:11:03 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mb_convert_encoding() in /home/mowadaba/public_html/curl1.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 3
+[07-Nov-2022 17:11:06 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mb_convert_encoding() in /home/mowadaba/public_html/curl1.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 3
+[07-Nov-2022 18:00:09 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function string_to_utf16_hex() in /home/mowadaba/public_html/curl1.php:37
+Stack trace:
+#0 /home/mowadaba/public_html/curl1.php(3): unicode_sms('gg\xD9\x84\xD9\x84\xD9\x84\xD9\x84\xD9\x84')
+#1 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 37
+[07-Nov-2022 18:01:05 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function string_to_utf16_hex() in /home/mowadaba/public_html/curl1.php:5
+Stack trace:
+#0 /home/mowadaba/public_html/curl1.php(11): unicode_sms('gg\xD9\x84\xD9\x84\xD9\x84\xD9\x84\xD9\x84')
+#1 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 5
+[07-Nov-2022 18:01:33 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function string_to_utf16_hex() in /home/mowadaba/public_html/curl1.php:5
+Stack trace:
+#0 /home/mowadaba/public_html/curl1.php(11): unicode_sms('gg\xD9\x84\xD9\x84\xD9\x84\xD9\x84\xD9\x84')
+#1 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 5
+[07-Nov-2022 18:02:47 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function mb_convert_encoding() in /home/mowadaba/public_html/curl1.php:4
+Stack trace:
+#0 /home/mowadaba/public_html/curl1.php(8): string_to_utf16_hex('gg\xD9\x84\xD9\x84\xD9\x84\xD9\x84\xD9\x84')
+#1 /home/mowadaba/public_html/curl1.php(14): unicode_sms('gg\xD9\x84\xD9\x84\xD9\x84\xD9\x84\xD9\x84')
+#2 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 4
+[07-Nov-2022 18:11:55 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function make_post_body() in /home/mowadaba/public_html/curl1.php:12
+Stack trace:
+#0 /home/mowadaba/public_html/curl1.php(14): unicode_sms('gg\xD9\x84\xD9\x84\xD9\x84\xD9\x84\xD9\x84')
+#1 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 12
+[07-Nov-2022 18:13:14 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function make_stop_dup_id() in /home/mowadaba/public_html/curl1.php:4
+Stack trace:
+#0 /home/mowadaba/public_html/curl1.php(25): make_post_body(Array)
+#1 /home/mowadaba/public_html/curl1.php(27): unicode_sms('gg\xD9\x84\xD9\x84\xD9\x84\xD9\x84\xD9\x84')
+#2 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 4
+[07-Nov-2022 18:20:34 Africa/Casablanca] PHP Notice:  Undefined variable: message in /home/mowadaba/public_html/curl1.php on line 33
+[07-Nov-2022 18:29:42 Africa/Casablanca] PHP Notice:  Undefined offset: 1 in /home/mowadaba/public_html/int-send_sms.php on line 128
+[07-Nov-2022 18:29:42 Africa/Casablanca] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function unicode_sms(), 1 passed in /home/mowadaba/public_html/int-send_sms.php on line 34 and exactly 4 expected in /home/mowadaba/public_html/int-send_sms.php:167
+Stack trace:
+#0 /home/mowadaba/public_html/int-send_sms.php(34): unicode_sms('Unicode test me...')
+#1 {main}
+  thrown in /home/mowadaba/public_html/int-send_sms.php on line 167
+[07-Nov-2022 18:31:24 Africa/Casablanca] PHP Notice:  Undefined offset: 1 in /home/mowadaba/public_html/int-send_sms.php on line 128
+[07-Nov-2022 18:31:25 Africa/Casablanca] PHP Notice:  Undefined offset: 1 in /home/mowadaba/public_html/int-send_sms.php on line 128
+[07-Nov-2022 18:31:26 Africa/Casablanca] PHP Notice:  Undefined offset: 1 in /home/mowadaba/public_html/int-send_sms.php on line 128
+[07-Nov-2022 18:33:05 Africa/Casablanca] PHP Notice:  Undefined offset: 1 in /home/mowadaba/public_html/int-send_sms.php on line 128
+[07-Nov-2022 18:33:06 Africa/Casablanca] PHP Notice:  Undefined offset: 1 in /home/mowadaba/public_html/int-send_sms.php on line 128
+[07-Nov-2022 18:35:10 Africa/Casablanca] PHP Notice:  Undefined variable: sms_result in /home/mowadaba/public_html/int-send_sms.php on line 111
+[07-Nov-2022 18:35:11 Africa/Casablanca] PHP Notice:  Undefined variable: sms_result in /home/mowadaba/public_html/int-send_sms.php on line 111
+[07-Nov-2022 18:35:49 Africa/Casablanca] PHP Warning:  Illegal string offset 'success' in /home/mowadaba/public_html/int-send_sms.php on line 37
+[07-Nov-2022 18:35:49 Africa/Casablanca] PHP Warning:  Illegal string offset 'success' in /home/mowadaba/public_html/int-send_sms.php on line 75
+[07-Nov-2022 18:35:49 Africa/Casablanca] PHP Warning:  Illegal string offset 'api_batch_id' in /home/mowadaba/public_html/int-send_sms.php on line 76
+[07-Nov-2022 18:35:49 Africa/Casablanca] PHP Warning:  Illegal string offset 'api_message' in /home/mowadaba/public_html/int-send_sms.php on line 76
+[07-Nov-2022 18:35:49 Africa/Casablanca] PHP Warning:  Illegal string offset 'details' in /home/mowadaba/public_html/int-send_sms.php on line 76
+[07-Nov-2022 18:35:50 Africa/Casablanca] PHP Warning:  Illegal string offset 'success' in /home/mowadaba/public_html/int-send_sms.php on line 49
+[07-Nov-2022 18:35:50 Africa/Casablanca] PHP Warning:  Illegal string offset 'success' in /home/mowadaba/public_html/int-send_sms.php on line 75
+[07-Nov-2022 18:35:50 Africa/Casablanca] PHP Warning:  Illegal string offset 'api_batch_id' in /home/mowadaba/public_html/int-send_sms.php on line 76
+[07-Nov-2022 18:35:50 Africa/Casablanca] PHP Warning:  Illegal string offset 'api_message' in /home/mowadaba/public_html/int-send_sms.php on line 76
+[07-Nov-2022 18:35:50 Africa/Casablanca] PHP Warning:  Illegal string offset 'details' in /home/mowadaba/public_html/int-send_sms.php on line 76
+[07-Nov-2022 18:36:38 Africa/Casablanca] PHP Warning:  Illegal string offset 'ok' in /home/mowadaba/public_html/int-send_sms.php on line 37
+[07-Nov-2022 18:36:38 Africa/Casablanca] PHP Warning:  Illegal string offset 'success' in /home/mowadaba/public_html/int-send_sms.php on line 75
+[07-Nov-2022 18:36:38 Africa/Casablanca] PHP Warning:  Illegal string offset 'api_batch_id' in /home/mowadaba/public_html/int-send_sms.php on line 76
+[07-Nov-2022 18:36:38 Africa/Casablanca] PHP Warning:  Illegal string offset 'api_message' in /home/mowadaba/public_html/int-send_sms.php on line 76
+[07-Nov-2022 18:36:38 Africa/Casablanca] PHP Warning:  Illegal string offset 'details' in /home/mowadaba/public_html/int-send_sms.php on line 76
+[07-Nov-2022 18:36:39 Africa/Casablanca] PHP Warning:  Illegal string offset 'success' in /home/mowadaba/public_html/int-send_sms.php on line 49
+[07-Nov-2022 18:36:39 Africa/Casablanca] PHP Warning:  Illegal string offset 'success' in /home/mowadaba/public_html/int-send_sms.php on line 75
+[07-Nov-2022 18:36:39 Africa/Casablanca] PHP Warning:  Illegal string offset 'api_batch_id' in /home/mowadaba/public_html/int-send_sms.php on line 76
+[07-Nov-2022 18:36:39 Africa/Casablanca] PHP Warning:  Illegal string offset 'api_message' in /home/mowadaba/public_html/int-send_sms.php on line 76
+[07-Nov-2022 18:36:39 Africa/Casablanca] PHP Warning:  Illegal string offset 'details' in /home/mowadaba/public_html/int-send_sms.php on line 76
+[07-Nov-2022 18:39:44 Africa/Casablanca] PHP Notice:  Undefined offset: 1 in /home/mowadaba/public_html/int-send_sms.php on line 123
+[07-Nov-2022 18:40:01 Africa/Casablanca] PHP Notice:  Undefined offset: 1 in /home/mowadaba/public_html/int-send_sms.php on line 123
+[07-Nov-2022 18:40:46 Africa/Casablanca] PHP Notice:  Undefined offset: 1 in /home/mowadaba/public_html/int-send_sms.php on line 128
+[07-Nov-2022 18:41:22 Africa/Casablanca] PHP Notice:  Undefined offset: 1 in /home/mowadaba/public_html/int-send_sms.php on line 128
+[07-Nov-2022 18:54:04 Africa/Casablanca] PHP Notice:  iconv(): Detected an illegal character in input string in /home/mowadaba/public_html/curl1.php on line 7
+[07-Nov-2022 18:56:07 Africa/Casablanca] PHP Notice:  iconv(): Detected an illegal character in input string in /home/mowadaba/public_html/curl1.php on line 7
+[09-Nov-2022 09:17:55 Africa/Casablanca] PHP Notice:  Undefined variable: printer in /home/mowadaba/public_html/curl1.php on line 12
+[09-Nov-2022 09:17:55 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function selectCharacterTable() on null in /home/mowadaba/public_html/curl1.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 12
+[09-Nov-2022 09:18:02 Africa/Casablanca] PHP Notice:  Undefined variable: printer in /home/mowadaba/public_html/curl1.php on line 12
+[09-Nov-2022 09:18:02 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function selectCharacterTable() on null in /home/mowadaba/public_html/curl1.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 12
+[09-Nov-2022 09:18:55 Africa/Casablanca] PHP Notice:  Undefined variable: printer in /home/mowadaba/public_html/curl1.php on line 13
+[09-Nov-2022 09:18:55 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function selectCharacterTable() on null in /home/mowadaba/public_html/curl1.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 13
+[09-Nov-2022 09:19:21 Africa/Casablanca] PHP Notice:  Array to string conversion in /home/mowadaba/public_html/curl1.php on line 11
+[09-Nov-2022 09:19:21 Africa/Casablanca] PHP Notice:  Undefined variable: printer in /home/mowadaba/public_html/curl1.php on line 14
+[09-Nov-2022 09:19:21 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function selectCharacterTable() on null in /home/mowadaba/public_html/curl1.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 14
+[09-Nov-2022 09:19:47 Africa/Casablanca] PHP Notice:  Undefined variable: printer in /home/mowadaba/public_html/curl1.php on line 14
+[09-Nov-2022 09:19:47 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to a member function selectCharacterTable() on null in /home/mowadaba/public_html/curl1.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 14
+[09-Nov-2022 09:24:06 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Class 'I18N_Arabic' not found in /home/mowadaba/public_html/curl1.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 7
+[09-Nov-2022 09:24:08 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Class 'I18N_Arabic' not found in /home/mowadaba/public_html/curl1.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 7
+[09-Nov-2022 09:32:14 Africa/Casablanca] PHP Warning:  include(phar://ArPHP.phar/Arabic.php): failed to open stream: phar error: invalid url or non-existent phar &quot;phar://ArPHP.phar/Arabic.php&quot; in /home/mowadaba/public_html/curl1.php on line 3
+[09-Nov-2022 09:32:14 Africa/Casablanca] PHP Warning:  include(): Failed opening 'phar://ArPHP.phar/Arabic.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/curl1.php on line 3
+[09-Nov-2022 09:32:14 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Class 'I18N_Arabic' not found in /home/mowadaba/public_html/curl1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 4
+[09-Nov-2022 09:32:15 Africa/Casablanca] PHP Warning:  include(phar://ArPHP.phar/Arabic.php): failed to open stream: phar error: invalid url or non-existent phar &quot;phar://ArPHP.phar/Arabic.php&quot; in /home/mowadaba/public_html/curl1.php on line 3
+[09-Nov-2022 09:32:15 Africa/Casablanca] PHP Warning:  include(): Failed opening 'phar://ArPHP.phar/Arabic.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/curl1.php on line 3
+[09-Nov-2022 09:32:15 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Class 'I18N_Arabic' not found in /home/mowadaba/public_html/curl1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 4
+[09-Nov-2022 09:33:23 Africa/Casablanca] PHP Warning:  include(phar://ArPHP.phar/Arabic.php): failed to open stream: phar error: invalid url or non-existent phar &quot;phar://ArPHP.phar/Arabic.php&quot; in /home/mowadaba/public_html/curl1.php on line 3
+[09-Nov-2022 09:33:23 Africa/Casablanca] PHP Warning:  include(): Failed opening 'phar://ArPHP.phar/Arabic.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/curl1.php on line 3
+[09-Nov-2022 09:33:23 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Class 'I18N_Arabic' not found in /home/mowadaba/public_html/curl1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 4
+[09-Nov-2022 09:34:20 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Class 'I18N_Arabic' not found in /home/mowadaba/public_html/curl1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 4
+[09-Nov-2022 09:34:22 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Class 'I18N_Arabic' not found in /home/mowadaba/public_html/curl1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/mowadaba/public_html/curl1.php on line 4
+[11-Feb-2023 01:50:27 Africa/Casablanca] PHP Notice:  Undefined variable: text2 in /home/mowadaba/public_html/curl1.php on line 11
+[11-Feb-2023 01:56:29 Africa/Casablanca] PHP Notice:  Undefined variable: text2 in /home/mowadaba/public_html/curl1.php on line 11
+[11-Feb-2023 02:00:30 Africa/Casablanca] PHP Notice:  Undefined variable: text2 in /home/mowadaba/public_html/curl1.php on line 11
+[11-Feb-2023 02:08:22 Africa/Casablanca] PHP Notice:  Undefined variable: text2 in /home/mowadaba/public_html/curl1.php on line 11
+[11-Feb-2023 02:24:50 Africa/Casablanca] PHP Notice:  Undefined variable: text2 in /home/mowadaba/public_html/curl1.php on line 11
+[11-Feb-2023 02:38:07 Africa/Casablanca] PHP Notice:  Undefined variable: text2 in /home/mowadaba/public_html/curl1.php on line 11
+[11-Feb-2023 22:27:04 Africa/Casablanca] PHP Warning:  file_get_contents(http://fabdo.ddns.net/sms?message=Hello&amp;phoneNumber=0673697101): failed to open stream: Connection refused in /home/mowadaba/public_html/curl1.php on line 6

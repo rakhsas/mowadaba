@@ -1,0 +1,4 @@
+[21-May-2022 22:46:19 Africa/Casablanca] PHP Warning:  require_once(include/dbcon.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/functs/func1.php on line 2
+[21-May-2022 22:46:19 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required 'include/dbcon.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/functs/func1.php on line 2
+[21-May-2022 22:47:43 Africa/Casablanca] PHP Warning:  require_once(./include/dbcon.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/functs/func1.php on line 2
+[21-May-2022 22:47:43 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required './include/dbcon.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/functs/func1.php on line 2

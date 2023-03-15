@@ -1,0 +1,891 @@
+[20-May-2022 13:29:52 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/students/header.php:2) in /home/mowadaba/public_html/include/students/header.php on line 9
+[20-May-2022 13:30:03 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/students/header.php:2) in /home/mowadaba/public_html/include/students/header.php on line 9
+[20-May-2022 13:30:16 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/students/header.php:2) in /home/mowadaba/public_html/include/students/header.php on line 9
+[20-May-2022 13:44:11 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/students/header.php:2) in /home/mowadaba/public_html/include/students/header.php on line 9
+[20-May-2022 13:55:03 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/students/header.php:2) in /home/mowadaba/public_html/include/students/header.php on line 9
+[20-May-2022 14:02:14 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/students/header.php:2) in /home/mowadaba/public_html/include/students/header.php on line 9
+[20-May-2022 14:02:24 Africa/Casablanca] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mowadaba/public_html/students/editstudent.php on line 2
+[20-May-2022 14:02:24 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/students/editstudent.php:1) in /home/mowadaba/public_html/students/editstudent.php on line 8
+[20-May-2022 14:02:31 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/students/header.php:2) in /home/mowadaba/public_html/include/students/header.php on line 9
+[20-May-2022 15:30:11 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/students/header.php:2) in /home/mowadaba/public_html/include/students/header.php on line 9
+[20-May-2022 15:30:35 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/students/header.php:2) in /home/mowadaba/public_html/include/students/header.php on line 9
+[20-May-2022 15:34:20 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/students/header.php:2) in /home/mowadaba/public_html/include/students/header.php on line 9
+[20-May-2022 16:56:39 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/students/header.php:2) in /home/mowadaba/public_html/include/students/header.php on line 9
+[20-May-2022 17:00:09 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/students/header.php:2) in /home/mowadaba/public_html/include/students/header.php on line 9
+[20-May-2022 17:02:07 Africa/Casablanca] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mowadaba/public_html/include/students/header.php:2) in /home/mowadaba/public_html/include/students/header.php on line 9
+[20-May-2022 17:22:35 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[20-May-2022 17:22:35 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[20-May-2022 17:22:35 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[20-May-2022 17:22:35 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[20-May-2022 17:22:53 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[20-May-2022 17:55:16 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[20-May-2022 17:55:16 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[20-May-2022 17:55:16 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[20-May-2022 17:55:16 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[20-May-2022 18:09:09 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[20-May-2022 18:09:09 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[20-May-2022 18:09:09 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[20-May-2022 18:09:09 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[20-May-2022 18:09:16 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[20-May-2022 18:09:16 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[20-May-2022 18:09:16 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[20-May-2022 18:09:16 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[20-May-2022 18:09:26 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[20-May-2022 18:09:26 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[20-May-2022 18:09:26 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[20-May-2022 18:09:26 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[20-May-2022 18:09:53 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[20-May-2022 18:09:53 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[20-May-2022 18:09:53 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[20-May-2022 18:09:53 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[20-May-2022 18:14:18 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[20-May-2022 18:14:18 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[20-May-2022 18:14:18 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[20-May-2022 18:14:18 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[20-May-2022 18:15:06 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[20-May-2022 18:15:06 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[20-May-2022 18:15:06 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[20-May-2022 18:15:06 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[20-May-2022 18:15:17 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[20-May-2022 18:15:17 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[20-May-2022 18:15:17 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[20-May-2022 18:15:17 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[20-May-2022 18:15:23 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[20-May-2022 18:15:23 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[20-May-2022 18:15:23 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[20-May-2022 18:15:23 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[20-May-2022 18:15:42 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[20-May-2022 18:15:42 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[20-May-2022 19:46:43 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[20-May-2022 19:46:43 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[20-May-2022 19:46:43 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[20-May-2022 19:46:43 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[21-May-2022 01:13:20 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[21-May-2022 01:13:20 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[21-May-2022 01:13:20 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[21-May-2022 01:13:20 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[21-May-2022 16:39:25 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[21-May-2022 16:39:25 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[21-May-2022 16:39:25 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[21-May-2022 16:39:25 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[21-May-2022 16:41:01 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[21-May-2022 16:41:01 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[21-May-2022 16:41:01 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[21-May-2022 16:41:01 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[21-May-2022 21:57:03 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[21-May-2022 21:57:03 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[21-May-2022 21:57:03 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[21-May-2022 21:57:03 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 11:10:48 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 11:10:48 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 11:10:48 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 11:10:48 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 11:52:53 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 11:52:53 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 11:52:53 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 11:52:53 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 11:55:22 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 11:55:22 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 11:55:22 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 11:55:22 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 12:01:10 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 12:01:10 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 12:01:10 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 12:01:10 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 12:02:41 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 12:02:41 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 12:02:41 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 12:02:41 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 12:10:10 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 12:10:10 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 12:10:10 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 12:10:10 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 12:40:44 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[22-May-2022 12:40:44 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[22-May-2022 12:40:51 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[22-May-2022 12:40:59 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[22-May-2022 12:41:05 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[22-May-2022 12:41:09 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[22-May-2022 12:41:09 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[22-May-2022 12:43:37 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 12:43:37 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 12:43:37 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 12:43:37 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 13:09:04 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 13:09:04 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 13:09:04 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 13:09:04 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 13:59:12 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 13:59:12 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 13:59:12 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 13:59:12 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 14:01:11 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 14:01:11 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 14:01:11 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 14:01:11 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 14:01:38 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 14:01:38 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 14:01:38 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 14:01:38 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 14:35:08 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[22-May-2022 14:35:08 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[22-May-2022 14:35:14 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[22-May-2022 14:35:17 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[22-May-2022 14:35:17 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[22-May-2022 14:37:39 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 14:37:39 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 14:37:39 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 14:37:39 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 15:13:49 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 15:13:49 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 15:13:49 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 15:13:49 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 15:46:01 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 15:46:01 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 15:46:01 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 15:46:01 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 15:46:03 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 15:46:03 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 15:46:03 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 15:46:03 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 15:46:04 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 15:46:04 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 15:46:04 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 15:46:04 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 15:47:41 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[22-May-2022 15:47:41 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[22-May-2022 16:05:21 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 16:05:21 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 16:05:21 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 16:05:21 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 16:05:28 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 16:05:28 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 16:05:28 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 16:05:28 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 18:30:19 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 18:30:19 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 18:30:19 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 18:30:19 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 21:01:14 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 21:01:14 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 21:01:14 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 21:01:14 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[22-May-2022 21:09:34 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[22-May-2022 21:09:34 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[22-May-2022 21:09:34 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[22-May-2022 21:09:34 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 00:40:49 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[23-May-2022 00:40:49 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[23-May-2022 00:40:49 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[23-May-2022 00:40:49 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 07:35:02 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[23-May-2022 07:35:02 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[23-May-2022 07:35:02 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[23-May-2022 07:35:02 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 08:58:41 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[23-May-2022 08:58:41 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[23-May-2022 08:58:41 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[23-May-2022 08:58:41 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 08:58:49 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[23-May-2022 08:58:49 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[23-May-2022 08:58:59 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[23-May-2022 08:59:06 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[23-May-2022 08:59:14 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[23-May-2022 08:59:14 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[23-May-2022 09:36:50 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[23-May-2022 09:36:50 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[23-May-2022 09:36:50 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[23-May-2022 09:36:50 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 09:41:02 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[23-May-2022 09:41:02 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[23-May-2022 09:41:02 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[23-May-2022 09:41:02 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 12:28:58 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[23-May-2022 12:28:58 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[23-May-2022 12:28:58 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[23-May-2022 12:28:58 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 13:01:37 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[23-May-2022 13:01:42 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:01:42 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:01:42 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:01:42 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:01:42 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:01:42 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:08:54 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[23-May-2022 13:09:00 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:09:00 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:09:00 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:09:00 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:09:00 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:09:00 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:10:01 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:10:01 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:10:01 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:10:01 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:10:01 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 13:10:01 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[23-May-2022 15:49:18 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[23-May-2022 15:49:18 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[23-May-2022 15:49:18 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[23-May-2022 15:49:18 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 15:49:36 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[23-May-2022 15:49:36 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[23-May-2022 15:49:36 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[23-May-2022 15:49:36 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 16:17:00 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[23-May-2022 16:17:00 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[23-May-2022 16:17:00 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[23-May-2022 16:17:00 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 16:17:01 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[23-May-2022 16:17:01 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[23-May-2022 16:17:01 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[23-May-2022 16:17:01 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 16:17:02 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[23-May-2022 16:17:02 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[23-May-2022 16:17:02 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[23-May-2022 16:17:02 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 20:18:52 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[23-May-2022 20:18:52 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[23-May-2022 20:18:52 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[23-May-2022 20:18:52 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 22:27:21 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[23-May-2022 22:27:21 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[23-May-2022 22:27:21 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[23-May-2022 22:27:21 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 22:29:31 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[23-May-2022 22:29:31 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[23-May-2022 22:29:31 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[23-May-2022 22:29:31 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 23:57:09 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[23-May-2022 23:57:09 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[23-May-2022 23:57:09 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[23-May-2022 23:57:09 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[23-May-2022 23:57:15 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[23-May-2022 23:57:15 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[24-May-2022 00:32:06 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 00:32:06 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 00:32:06 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 00:32:06 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 09:48:16 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 09:48:16 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 09:48:16 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 09:48:16 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 11:44:34 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 11:44:34 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 11:44:34 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 11:44:34 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 11:44:36 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 11:44:36 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 11:44:36 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 11:44:36 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 11:44:38 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 11:44:38 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 11:44:38 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 11:44:38 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 11:44:48 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 11:44:48 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 11:44:48 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 11:44:48 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 11:44:50 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 11:44:50 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 11:44:50 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 11:44:50 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 11:44:51 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 11:44:51 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 11:44:51 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 11:44:51 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 11:44:53 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 11:44:53 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 11:44:53 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 11:44:53 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 11:45:16 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 11:45:16 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 11:45:16 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 11:45:16 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 11:45:36 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 11:45:36 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 11:45:36 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 11:45:36 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 11:45:37 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 11:45:37 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 11:45:37 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 11:45:37 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 13:20:26 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 13:20:26 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 13:20:26 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 13:20:26 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 13:20:36 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 13:20:36 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 13:20:36 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 13:20:36 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 13:20:51 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 13:20:51 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 13:20:51 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 13:20:51 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 13:21:27 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 13:21:27 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 13:21:27 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 13:21:27 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 13:21:37 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 13:21:37 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 13:21:37 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 13:21:37 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 14:21:27 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 14:21:27 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 14:21:27 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 14:21:27 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 16:19:31 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[24-May-2022 16:30:11 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 16:30:11 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 16:30:11 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 16:30:11 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 16:30:17 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 16:30:17 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 16:30:17 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 111
+[24-May-2022 16:30:17 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 115
+[24-May-2022 17:03:23 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[24-May-2022 17:03:23 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[24-May-2022 17:03:34 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[24-May-2022 17:03:34 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[24-May-2022 19:13:38 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 19:13:38 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 19:13:38 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 106
+[24-May-2022 19:13:38 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 110
+[24-May-2022 19:58:34 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[24-May-2022 21:53:31 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 21:53:31 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 21:53:31 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 106
+[24-May-2022 21:53:31 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 110
+[24-May-2022 23:52:17 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 23:52:17 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 23:52:17 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 106
+[24-May-2022 23:52:17 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 110
+[24-May-2022 23:56:32 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[24-May-2022 23:56:32 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[24-May-2022 23:56:32 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 106
+[24-May-2022 23:56:32 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 110
+[25-May-2022 00:27:16 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[25-May-2022 00:27:16 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[25-May-2022 00:27:16 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 106
+[25-May-2022 00:27:16 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 110
+[25-May-2022 02:09:44 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[25-May-2022 02:09:44 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[25-May-2022 02:09:44 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 106
+[25-May-2022 02:09:44 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 110
+[25-May-2022 08:41:18 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[25-May-2022 08:41:18 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[25-May-2022 08:45:15 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[25-May-2022 08:45:15 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[25-May-2022 08:45:15 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 106
+[25-May-2022 08:45:15 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 110
+[25-May-2022 17:43:52 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[25-May-2022 20:31:20 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[25-May-2022 20:31:20 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[25-May-2022 20:31:20 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[25-May-2022 20:31:20 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[25-May-2022 21:02:47 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[25-May-2022 21:02:47 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[25-May-2022 21:02:47 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[25-May-2022 21:02:47 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[26-May-2022 13:56:46 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[26-May-2022 13:56:46 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[26-May-2022 13:56:46 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[26-May-2022 13:56:46 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[26-May-2022 14:54:06 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[26-May-2022 14:54:06 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[26-May-2022 14:54:06 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[26-May-2022 14:54:06 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[26-May-2022 14:54:13 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[26-May-2022 14:54:13 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[26-May-2022 14:55:26 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[26-May-2022 14:55:26 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[26-May-2022 14:55:26 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[26-May-2022 14:55:26 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[26-May-2022 14:59:06 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[26-May-2022 14:59:14 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 14:59:14 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 14:59:14 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 14:59:14 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 14:59:14 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 14:59:14 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:02:26 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[26-May-2022 15:02:30 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:02:30 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:02:30 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:02:30 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:02:30 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:02:30 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:03:27 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:03:27 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:03:27 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:03:27 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:03:27 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:03:27 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:03:59 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:03:59 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:03:59 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:03:59 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:03:59 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:03:59 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:04:37 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[26-May-2022 15:04:49 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:04:49 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:04:49 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:04:49 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:04:49 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:04:49 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:05:38 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:05:38 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:05:38 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:05:38 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:05:38 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 15:05:38 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 17:00:42 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/students/hh.php on line 26
+[26-May-2022 17:00:42 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[26-May-2022 17:01:36 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[26-May-2022 17:01:54 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 17:01:54 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 17:01:54 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 17:01:54 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 17:01:54 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 17:01:54 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[26-May-2022 17:41:14 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/students/hh.php on line 26
+[26-May-2022 17:41:14 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[26-May-2022 18:03:39 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[26-May-2022 18:03:39 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[26-May-2022 18:03:39 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[26-May-2022 18:03:39 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[26-May-2022 21:53:59 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[26-May-2022 21:53:59 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[26-May-2022 21:53:59 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[26-May-2022 21:53:59 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[26-May-2022 21:54:06 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[26-May-2022 21:54:06 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[26-May-2022 21:54:06 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[26-May-2022 21:54:06 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[26-May-2022 21:54:08 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[26-May-2022 21:54:08 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[26-May-2022 21:54:08 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[26-May-2022 21:54:08 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[26-May-2022 21:54:17 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[26-May-2022 21:54:17 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[26-May-2022 21:54:17 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[26-May-2022 21:54:17 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[27-May-2022 09:55:20 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[27-May-2022 11:04:44 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[27-May-2022 11:04:44 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[27-May-2022 11:04:44 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[27-May-2022 11:04:44 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[31-May-2022 19:03:52 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[31-May-2022 19:03:52 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[31-May-2022 19:03:52 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[31-May-2022 19:03:52 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[31-May-2022 19:03:57 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[31-May-2022 19:03:57 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[31-May-2022 19:03:57 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[31-May-2022 19:03:57 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[31-May-2022 19:04:00 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[31-May-2022 19:04:00 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[31-May-2022 19:04:04 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[31-May-2022 19:04:04 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[31-May-2022 19:05:08 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[31-May-2022 19:05:08 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[31-May-2022 19:05:12 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[31-May-2022 19:05:12 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[31-May-2022 19:05:23 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[31-May-2022 19:05:37 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[31-May-2022 19:05:54 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[31-May-2022 19:07:43 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[31-May-2022 19:07:58 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[31-May-2022 19:08:11 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[31-May-2022 19:08:17 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[31-May-2022 19:08:22 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[31-May-2022 19:08:22 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[31-May-2022 19:08:22 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[31-May-2022 19:08:22 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[01-Jun-2022 22:43:01 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[01-Jun-2022 22:43:01 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[01-Jun-2022 22:43:01 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[01-Jun-2022 22:43:01 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[09-Jun-2022 01:05:16 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[09-Jun-2022 01:05:24 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Jun-2022 01:05:24 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Jun-2022 01:05:24 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Jun-2022 01:05:24 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Jun-2022 01:05:24 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Jun-2022 01:05:24 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[13-Jun-2022 14:06:55 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 29
+[13-Jun-2022 14:06:55 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[13-Jun-2022 14:06:55 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[13-Jun-2022 14:06:55 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[13-Jun-2022 14:06:59 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[13-Jun-2022 14:06:59 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[13-Jun-2022 14:09:51 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[13-Jun-2022 14:09:51 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[13-Jun-2022 14:09:51 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[13-Jun-2022 14:09:51 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[13-Jun-2022 14:10:28 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[13-Jun-2022 14:10:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[13-Jun-2022 14:10:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[13-Jun-2022 14:10:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[13-Jun-2022 14:10:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[13-Jun-2022 14:10:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[13-Jun-2022 14:10:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Jul-2022 20:08:12 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[09-Jul-2022 20:08:12 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[09-Jul-2022 20:08:12 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[09-Jul-2022 20:08:12 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[18-Oct-2022 16:34:21 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[18-Oct-2022 16:34:21 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[18-Oct-2022 16:34:21 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[18-Oct-2022 16:34:21 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[28-Oct-2022 12:17:26 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[28-Oct-2022 12:17:26 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[28-Oct-2022 12:17:26 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[28-Oct-2022 12:17:26 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[28-Oct-2022 12:31:42 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[28-Oct-2022 12:31:42 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[28-Oct-2022 12:31:42 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[28-Oct-2022 12:31:42 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[28-Oct-2022 12:39:43 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[28-Oct-2022 12:39:43 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[28-Oct-2022 12:39:43 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[28-Oct-2022 12:39:43 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[28-Oct-2022 14:38:39 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[28-Oct-2022 14:38:39 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[28-Oct-2022 14:38:39 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[28-Oct-2022 14:38:39 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[28-Oct-2022 14:39:50 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[28-Oct-2022 14:39:50 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[28-Oct-2022 14:39:50 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[28-Oct-2022 14:39:50 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[28-Oct-2022 14:41:37 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[28-Oct-2022 14:41:37 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[28-Oct-2022 14:41:37 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[28-Oct-2022 14:41:37 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[28-Oct-2022 15:14:36 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[28-Oct-2022 15:14:37 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[28-Oct-2022 15:14:37 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[28-Oct-2022 15:14:37 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[28-Oct-2022 15:20:03 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[28-Oct-2022 15:20:03 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[28-Oct-2022 15:20:03 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[28-Oct-2022 15:20:03 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[28-Oct-2022 16:30:57 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[28-Oct-2022 16:30:57 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[28-Oct-2022 16:30:57 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[28-Oct-2022 16:30:57 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[30-Oct-2022 10:21:24 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[30-Oct-2022 10:21:24 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[30-Oct-2022 10:21:24 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[30-Oct-2022 10:21:24 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[01-Nov-2022 07:57:23 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[01-Nov-2022 07:57:23 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[01-Nov-2022 07:57:23 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[01-Nov-2022 07:57:23 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[01-Nov-2022 07:57:23 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[08-Nov-2022 22:43:16 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[08-Nov-2022 22:43:16 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[08-Nov-2022 22:43:16 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[08-Nov-2022 22:43:42 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 59
+[08-Nov-2022 22:43:42 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[08-Nov-2022 22:43:42 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[08-Nov-2022 22:43:42 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[08-Nov-2022 22:44:06 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 59
+[08-Nov-2022 22:44:06 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[08-Nov-2022 22:44:06 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[08-Nov-2022 22:44:06 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Nov-2022 10:15:44 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[09-Nov-2022 10:15:44 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:15:44 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:16:30 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:16:30 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:16:43 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 59
+[09-Nov-2022 10:16:43 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Nov-2022 10:16:43 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Nov-2022 10:16:43 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Nov-2022 10:17:27 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:17:27 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:17:40 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:17:40 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:17:47 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:17:47 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:18:14 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[09-Nov-2022 10:18:14 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[09-Nov-2022 10:18:14 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[09-Nov-2022 10:18:14 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[09-Nov-2022 10:18:14 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:18:20 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[09-Nov-2022 10:18:20 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[09-Nov-2022 10:18:20 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[09-Nov-2022 10:18:20 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[09-Nov-2022 10:18:20 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:18:21 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[09-Nov-2022 10:18:21 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[09-Nov-2022 10:18:21 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[09-Nov-2022 10:18:21 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[09-Nov-2022 10:18:21 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:19:26 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 10:19:26 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[09-Nov-2022 10:19:31 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 10:19:36 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 10:19:36 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[09-Nov-2022 10:27:32 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[09-Nov-2022 10:27:32 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:27:32 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:28:15 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 59
+[09-Nov-2022 10:28:15 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Nov-2022 10:28:15 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Nov-2022 10:28:15 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Nov-2022 10:30:16 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 10:30:16 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[09-Nov-2022 10:30:25 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 10:30:29 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 10:30:43 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 10:30:48 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 10:30:51 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 10:30:54 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 10:30:59 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[09-Nov-2022 10:30:59 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[09-Nov-2022 10:30:59 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[09-Nov-2022 10:30:59 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[09-Nov-2022 10:30:59 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:32:06 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:32:06 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:36:14 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 10:36:14 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[09-Nov-2022 10:36:20 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 10:36:27 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 10:38:49 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[09-Nov-2022 10:38:49 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[09-Nov-2022 10:38:49 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[09-Nov-2022 10:38:49 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[09-Nov-2022 10:38:49 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:38:58 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[09-Nov-2022 10:38:59 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:38:59 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:39:14 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 10:39:14 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[09-Nov-2022 10:39:24 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[09-Nov-2022 10:39:24 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[09-Nov-2022 10:39:24 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[09-Nov-2022 10:39:24 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[09-Nov-2022 10:39:24 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:39:29 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[09-Nov-2022 10:39:29 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:39:29 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:39:50 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 59
+[09-Nov-2022 10:39:50 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Nov-2022 10:39:50 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Nov-2022 10:39:50 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Nov-2022 10:39:59 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[09-Nov-2022 10:39:59 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:39:59 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:40:05 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:40:05 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:40:16 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:40:16 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:40:20 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[09-Nov-2022 10:40:21 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:40:21 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:40:38 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:40:38 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:41:07 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:41:07 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:41:11 Africa/Casablanca] PHP Warning:  require_once(../include/students/sidenavstudent.php.php): failed to open stream: No such file or directory in /home/mowadaba/public_html/students/profile.php on line 2
+[09-Nov-2022 10:41:11 Africa/Casablanca] PHP Fatal error:  require_once(): Failed opening required '../include/students/sidenavstudent.php.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mowadaba/public_html/students/profile.php on line 2
+[09-Nov-2022 10:41:17 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:41:17 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:41:31 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:41:31 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 10:41:41 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 59
+[09-Nov-2022 10:41:41 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Nov-2022 10:41:41 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Nov-2022 10:41:41 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[09-Nov-2022 10:43:16 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[09-Nov-2022 10:43:16 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[09-Nov-2022 12:17:59 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 12:17:59 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[09-Nov-2022 12:18:10 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 12:18:14 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[09-Nov-2022 12:18:18 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[09-Nov-2022 12:18:18 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[09-Nov-2022 12:18:18 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[09-Nov-2022 12:18:18 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[09-Nov-2022 12:18:18 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[10-Nov-2022 12:56:18 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/students/editstudent.php on line 26
+[10-Nov-2022 12:56:18 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 59
+[10-Nov-2022 12:56:18 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[10-Nov-2022 12:56:18 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[10-Nov-2022 12:56:18 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[10-Nov-2022 12:56:18 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[10-Nov-2022 14:32:38 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[10-Nov-2022 14:32:39 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[10-Nov-2022 14:32:39 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[10-Nov-2022 14:33:21 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[10-Nov-2022 14:33:21 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[10-Nov-2022 16:03:17 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[10-Nov-2022 16:03:17 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[10-Nov-2022 16:03:17 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[10-Nov-2022 16:03:17 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[10-Nov-2022 16:03:17 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[10-Nov-2022 16:03:35 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[10-Nov-2022 16:03:35 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[10-Nov-2022 16:03:35 Africa/Casablanca] PHP Notice:  Undefined variable: city in /home/mowadaba/public_html/students/index.php on line 126
+[10-Nov-2022 16:03:35 Africa/Casablanca] PHP Notice:  Undefined variable: Adresse in /home/mowadaba/public_html/students/index.php on line 130
+[10-Nov-2022 16:03:35 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[10-Nov-2022 16:03:38 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[10-Nov-2022 16:03:38 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[10-Nov-2022 16:03:43 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[10-Nov-2022 16:03:43 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[25-Nov-2022 11:59:55 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[25-Nov-2022 11:59:56 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[25-Nov-2022 11:59:56 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[25-Nov-2022 12:00:07 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 59
+[25-Nov-2022 12:00:07 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[25-Nov-2022 12:00:07 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[25-Nov-2022 12:00:07 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[25-Nov-2022 12:00:07 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[25-Nov-2022 12:00:07 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[25-Nov-2022 12:00:07 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[25-Nov-2022 12:02:08 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 59
+[25-Nov-2022 12:02:08 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[25-Nov-2022 12:02:08 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[25-Nov-2022 12:02:08 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[25-Nov-2022 12:02:08 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[25-Nov-2022 12:02:08 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[25-Nov-2022 12:02:08 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 175
+[25-Nov-2022 12:03:48 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 60
+[25-Nov-2022 12:03:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[25-Nov-2022 12:03:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[25-Nov-2022 12:03:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[25-Nov-2022 12:03:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[25-Nov-2022 12:03:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[25-Nov-2022 12:03:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[25-Nov-2022 12:04:54 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[25-Nov-2022 12:04:54 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[25-Nov-2022 12:04:54 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[25-Nov-2022 12:04:59 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 60
+[25-Nov-2022 12:04:59 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[25-Nov-2022 12:04:59 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[25-Nov-2022 12:04:59 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[25-Nov-2022 12:04:59 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[25-Nov-2022 12:04:59 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[25-Nov-2022 12:04:59 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[26-Nov-2022 12:31:42 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[26-Nov-2022 12:31:42 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[26-Nov-2022 12:31:42 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[15-Dec-2022 10:55:15 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[15-Dec-2022 10:55:15 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[15-Dec-2022 10:55:15 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[15-Dec-2022 10:55:33 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[15-Dec-2022 10:55:33 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[15-Dec-2022 10:56:22 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 60
+[15-Dec-2022 10:56:22 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[15-Dec-2022 10:56:22 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[15-Dec-2022 10:56:22 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[15-Dec-2022 10:56:22 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[15-Dec-2022 10:56:22 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[15-Dec-2022 10:56:22 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[15-Dec-2022 10:56:22 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[15-Dec-2022 10:56:22 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[15-Dec-2022 10:56:22 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[15-Dec-2022 10:56:22 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[15-Dec-2022 10:56:22 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[15-Dec-2022 10:59:15 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[15-Dec-2022 10:59:15 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[15-Dec-2022 10:59:17 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[15-Dec-2022 10:59:17 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[15-Dec-2022 10:59:22 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[15-Dec-2022 10:59:22 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[30-Dec-2022 09:41:27 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[30-Dec-2022 09:41:27 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[30-Dec-2022 09:41:27 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[30-Dec-2022 09:41:27 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[30-Dec-2022 09:41:27 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[30-Dec-2022 09:41:27 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[30-Dec-2022 09:41:27 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[30-Dec-2022 09:41:27 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[03-Jan-2023 12:47:50 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[03-Jan-2023 12:47:50 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[03-Jan-2023 12:47:50 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[03-Jan-2023 12:47:50 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[03-Jan-2023 12:47:50 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[03-Jan-2023 12:47:50 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[03-Jan-2023 12:47:50 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[03-Jan-2023 12:47:50 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[03-Jan-2023 17:03:31 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[03-Jan-2023 17:03:31 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[03-Jan-2023 17:03:31 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[03-Jan-2023 17:03:31 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[03-Jan-2023 17:03:31 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[03-Jan-2023 17:03:31 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[03-Jan-2023 17:03:31 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[03-Jan-2023 17:03:31 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[03-Jan-2023 17:06:18 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[03-Jan-2023 17:06:18 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[03-Jan-2023 17:06:18 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[03-Jan-2023 17:06:48 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 60
+[03-Jan-2023 17:06:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:06:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:06:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:06:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:06:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:06:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:06:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:06:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:06:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:06:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:06:48 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:08:19 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 60
+[03-Jan-2023 17:08:19 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:08:19 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:08:19 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:08:19 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:08:19 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:08:19 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:08:19 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:08:19 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:08:19 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:08:19 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[03-Jan-2023 17:08:19 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 12:23:23 Africa/Casablanca] PHP Notice:  Undefined index: name in /home/mowadaba/public_html/students/login.php on line 26
+[30-Jan-2023 12:23:23 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[30-Jan-2023 12:23:23 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
+[30-Jan-2023 12:23:44 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 60
+[30-Jan-2023 12:23:44 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 12:23:44 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 12:23:44 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 12:23:44 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 12:23:44 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 12:23:44 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 12:23:44 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 12:23:44 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 12:23:44 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 12:23:44 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 12:23:44 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 14:02:47 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/students/editstudent.php on line 27
+[30-Jan-2023 14:02:47 Africa/Casablanca] PHP Notice:  Undefined index: Numero de Parent in /home/mowadaba/public_html/students/editstudent.php on line 60
+[30-Jan-2023 14:02:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 14:02:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 14:02:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 14:02:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 14:02:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 14:02:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 14:02:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 14:02:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 14:02:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 14:02:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 14:02:47 Africa/Casablanca] PHP Notice:  Undefined index: standerd in /home/mowadaba/public_html/students/editstudent.php on line 176
+[30-Jan-2023 14:02:47 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[06-Feb-2023 17:12:27 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[06-Feb-2023 17:12:27 Africa/Casablanca] PHP Notice:  Undefined variable: exist in /home/mowadaba/public_html/students/mdpo.php on line 110
+[06-Feb-2023 17:12:31 Africa/Casablanca] PHP Notice:  session_start(): A session had already been started - ignoring in /home/mowadaba/public_html/students/mdpo.php on line 5
+[06-Feb-2023 17:12:42 Africa/Casablanca] PHP Notice:  Undefined index: student_name in /home/mowadaba/public_html/include/students/header.php on line 31
+[06-Feb-2023 17:12:42 Africa/Casablanca] PHP Notice:  Undefined index: student_id in /home/mowadaba/public_html/include/students/sidenavstudent.php on line 3
+[06-Feb-2023 17:12:42 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[06-Feb-2023 17:12:42 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[06-Feb-2023 17:12:42 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[06-Feb-2023 17:12:42 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[06-Feb-2023 17:12:42 Africa/Casablanca] PHP Notice:  Undefined index: Lieu de Naissance in /home/mowadaba/public_html/students/index.php on line 98
+[06-Feb-2023 17:12:42 Africa/Casablanca] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/mowadaba/public_html/students/index.php on line 150
